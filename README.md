@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AjaySharma0988
+- 👋 Hi, I’m AjaySharma
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
 - 📫 How to reach me ajsharma0988@gmail.com
